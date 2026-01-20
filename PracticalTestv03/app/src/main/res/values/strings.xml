@@ -2,4 +2,5 @@
     <string name="app_name">Dictionary</string>
     <string name="input_word">Edit word</string>
     <string name="get_description">Send</string>
+    <string name="get_time">Get Time</string>
 </resources>

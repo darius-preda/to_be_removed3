@@ -53,6 +53,12 @@
         android:layout_width="wrap_content"
         android:layout_height="10dp" />
 
+    <Button
+        android:id="@+id/time_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/get_time"/>
 
     <ScrollView
         android:layout_width="match_parent"
